@@ -1,6 +1,5 @@
-# FRP Exercises: Alarm system
+# HTML + TS seed
 
-Ejercicios de Programación Funcional Reactiva
 
 ## Instalación y ejecución
 
